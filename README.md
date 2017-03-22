@@ -4,5 +4,6 @@ Project provides a win console application to download data from any PakBus Data
 Useful for scripted data collects. 
 
 Requires:
-* BMP5 SDK from Campbell Scientific (older version included in source)
+* libconfig
+* BMP5 SDK from Campbell Scientific 
 * Boost Libraries
